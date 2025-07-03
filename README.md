@@ -33,7 +33,7 @@ I am Rivky My mission is to map every corner of the code to find hidden anomalie
 |----------------|--------------------------------------------------------------------|
 | Automation     | WDiO, Playwirght, AppiumLibrary, BrowserLibrary                     |
 | CI Integration | GitHub Actions                                       |
-| Docs & Reports | Confluence & Jira                                          |
+| Docs & Reports | Jira, Swagger                                          |
 | Current Role   | QA Automation Engineer                     |
 
 
@@ -53,7 +53,7 @@ I am Rivky My mission is to map every corner of the code to find hidden anomalie
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-1500%2B-blue?style=for-the-badge&logo=github" />
+  
   <img src="https://img.shields.io/badge/Automation%20Tests-Extensive-green?style=for-the-badge&logo=robotframework" />
   <img src="https://img.shields.io/badge/Private_Projects-Many-lightgrey?style=for-the-badge&logo=lock" />
 </p>
