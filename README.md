@@ -41,7 +41,7 @@ I am Rivky My mission is to map every corner of the code to find hidden anomalie
 
 ### 🤝 Let's Connect
 
-- 📫 [Reach me on LinkedIn](www.linkedin.com/in/rivky-riyantoro)  
+- 📫 [Reach me on LinkedIn](https://www.linkedin.com/in/rivky-riyantoro/)  
 
 ---
 
