@@ -1,36 +1,59 @@
-<h2 align="left">Hi 👋!</h2>
+<h1 align="center">👋 Hello, I'm Rivky Riyantoro</h1>
+<p align="center"><i>QA Engineer who breaks things intentionally — before your users do.</i></p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AppiumLibrary-Mobile_Automation-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RequestsLibrary-API_Testing-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BrowserLibrary-Modern_UI-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YAML-Configuration-critical?style=for-the-badge&logo=yaml" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="rivkyriyant@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="21" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/rivky-riyantoro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="21" alt="linkedin logo"  />
-  </a>
-</div>
+### 🧠 A Curious Mind in Tech
 
-###
+Once a curious observer of how things break — now a QA Automation Engineer who breaks things *intentionally*.  
+I'm Emas, an engineer who enjoys solving weird edge cases, automating repetitive tasks, and turning release chaos into confidence through clean pipelines.
+
+---
+
+### 🔍 What I'm Up To
+
+- 📱 Automating mobile & web apps using **AppiumLibrary** & **BrowserLibrary**
+- 🚀 Running test pipelines using **GitHub Actions**
+- 📚 Writing clear test plans & test reports in **Confluence** and tracking bugs in **Jira**
+
+---
+
+### 🛠️ Tech Stack
+
+| Area           | Stack                                                              |
+|----------------|--------------------------------------------------------------------|
+| Automation     | WDiO, Playwirght, AppiumLibrary, BrowserLibrary                     |
+| CI Integration | GitHub Actions                                       |
+| Docs & Reports | Confluence & Jira                                          |
+| Current Role   | QA Automation Engineer at **LayanaId**                     |
+
+
+---
+
+### 🤝 Let's Connect
+
+- 📫 [Reach me on LinkedIn](www.linkedin.com/in/rivky-riyantoro)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivkyriyantoro&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-1500%2B-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Automation%20Tests-Extensive-green?style=for-the-badge&logo=robotframework" />
+  <img src="https://img.shields.io/badge/Private_Projects-Many-lightgrey?style=for-the-badge&logo=lock" />
+</p>
