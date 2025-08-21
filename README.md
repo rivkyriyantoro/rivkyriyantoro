@@ -32,7 +32,7 @@ I am Rivky My mission is to map every corner of the code to find hidden anomalie
 | Area           | Stack                                                              |
 |----------------|--------------------------------------------------------------------|
 | Automation     |  Playwirght, AppiumLibrary, BrowserLibrary, Postman, K6                     |
-| CI Integration | GitHub Actions                                       |
+| CI Integration | GitHub Actions, Bitbucket                                       |
 | Docs & Reports | Jira, Swagger                                          |
 | Current Role   | QA Automation Engineer               |
 
