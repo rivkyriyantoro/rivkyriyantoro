@@ -31,10 +31,10 @@ I am Rivky My mission is to map every corner of the code to find hidden anomalie
 
 | Area           | Stack                                                              |
 |----------------|--------------------------------------------------------------------|
-| Automation     | WDiO, Playwirght, AppiumLibrary, BrowserLibrary                     |
+| Automation     |  Playwirght, AppiumLibrary, BrowserLibrary, Postman, K6                     |
 | CI Integration | GitHub Actions                                       |
 | Docs & Reports | Jira, Swagger                                          |
-| Current Role   | QA Automation Engineer                     |
+| Current Role   | QA Automation Engineer               |
 
 
 ---
